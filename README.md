@@ -5,8 +5,8 @@ Group Leader:
 Jhules Lorenz Maquiran
 
 Members:
-Mark Angelo Servando
-Kean Elijah Janaban
+Mark Angelo Servando,
+Kean Elijah Janaban,
 Kurt David Fadrigo
 
 
