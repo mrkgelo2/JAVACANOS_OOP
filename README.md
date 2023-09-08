@@ -2,12 +2,12 @@
 REPOSITORY CREATED BY JAVACANOS
 
 Group Leader:
-  Jhules Lorenz Maquiran
+Jhules Lorenz Maquiran
 
 Members:
-  Mark Angelo Servando
-  Kean Elijah Janaban
-  Kurt David Fadrigo
+Mark Angelo Servando
+Kean Elijah Janaban
+Kurt David Fadrigo
 
 
 
